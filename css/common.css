@@ -1,0 +1,14 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.navbar__item{
+    text-decoration: none;
+}
+
+.navbar__button a{
+    text-decoration: none;
+}
+
+
